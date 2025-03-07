@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-# reservasi-hotel
-Booking Hotel
-=======
 
 # Hotel Seadanya
 
