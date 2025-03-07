@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# reservasi_hotel
+# reservasi-hotel
 Aplikasi pemesanan hotel. Sistem ini memungkinkan pengguna untuk mencari, memesan, dan mengelola reservasi hotel secara online.
 =======
 
-# Hotel Hebat Web App
+# Hotel Seadanya Web App
 
 This comprehensive hotel web application, developed using the Laravel V8 framework, offers a seamless journey from reservation to payment completion. With its intuitive interface and robust features, users can effortlessly browse available rooms, make reservations for their desired dates, manage bookings, and complete secure payments, all within a single platform. Built with a focus on user experience and efficiency, this application streamlines the entire hotel booking process for both guests and administrators, enhancing the overall experience for all stakeholders involved
 
@@ -41,7 +41,7 @@ This comprehensive hotel web application, developed using the Laravel V8 framewo
 ## Run Locally
 
 
-[Download .zip file](https://github.com/fauzanlm/laravel-hotel-web-app/archive/refs/heads/main.zip) and extract to your folder
+[Download .zip file](https://github.com/syaifullahmad/reservasi-hotel/archive/refs/heads/main.zip) and extract to your folder
 
 OR
 
@@ -50,13 +50,13 @@ Clone the project
 
 ```bash
   cd your-folder
-  git clone https://github.com/fauzanlm/laravel-hotel-web-app.git
+  git clone https://github.com/syaifullahmad/reservasi-hotel.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd laravel-hotel-web-app
+  cd hotel-reservasi
 ```
 
 Install Packages
@@ -108,7 +108,7 @@ open your project locally : http://localhost/8000 (port and host adjust)
 
 ## Authors
 
-- [@fauzanlm](https://www.github.com/fauzanlm)
+- [@fauzanlm](https://www.github.com/syaifullahmad)
 
 
->>>>>>> 933c22a (first commit)
+>>>>>>> 933c22a (perubahan pertama)
