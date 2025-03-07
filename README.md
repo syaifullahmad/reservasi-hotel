@@ -108,7 +108,7 @@ open your project locally : http://localhost/8000 (port and host adjust)
 
 ## Authors
 
-- [@fauzanlm](https://www.github.com/syaifullahmad)
+- [@syaifullahmad](https://www.github.com/syaifullahmad)
 
 
 >>>>>>> 933c22a (perubahan pertama)
