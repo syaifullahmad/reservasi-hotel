@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# reservasi_hotel
+# reservasi-hotel
 Aplikasi pemesanan hotel. Sistem ini memungkinkan pengguna untuk mencari, memesan, dan mengelola reservasi hotel secara online.
 =======
 
@@ -50,7 +50,7 @@ Clone the project
 
 ```bash
   cd your-folder
-  git clone https://github.com/fauzanlm/laravel-hotel-web-app.git
+  git clone https://github.com/syaifullahmad/reservasi-hotel.git
 ```
 
 Go to the project directory
