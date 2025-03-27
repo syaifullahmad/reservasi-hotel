@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Hotel Seadanya
 
 This comprehensive hotel web application, developed using the Laravel V8 framework, offers a seamless journey from reservation to payment completion. With its intuitive interface and robust features, users can effortlessly browse available rooms, make reservations for their desired dates, manage bookings, and complete secure payments, all within a single platform. Built with a focus on user experience and efficiency, this application streamlines the entire hotel booking process for both guests and administrators, enhancing the overall experience for all stakeholders involved
